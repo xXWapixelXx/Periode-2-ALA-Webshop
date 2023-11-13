@@ -1,0 +1,166 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+}
+
+html,
+body {
+    width: 100%;
+    height: 100%;
+    font-family: 'Jost', sans-serif;
+    font-size: large;
+    scroll-behavior: smooth;
+}
+
+a {
+    text-decoration: none;
+    color: #fff;
+}
+
+main {
+    width: 100%;
+    height: 100%;
+    display: grid;
+    place-items: center;
+}
+
+body {
+    background: rgb(114, 179, 255);
+    background: radial-gradient(circle, rgba( 188, 188, 188) 0%, rgb( 188, 188, 188) 100%);
+}
+
+header {
+    width: 100%;
+    position: absolute;
+    height: 55px;
+    background-color: rgba(0, 0, 0, 0.703);
+}
+
+.topnav {
+    width: 100%;
+    height: 100%;
+    background-color: transparent;
+    box-shadow: 0 0 10px rgba(0, 17, 110, 0.6);
+}
+
+.topnav a::after {
+    content: '';
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 0;
+    height: 2px;
+    background-color: rgb(255, 255, 255);
+    transition: 0.2s ease-in-out;
+}
+
+.topnav a:hover::after {
+    width: 100%;
+}
+
+.topnav a:hover {
+    transform: translateX(-3px) translateY(-3px);
+}
+
+.topnav ul {
+    width: 100%;
+    height: 100%;
+    list-style-type: none;
+}
+
+.topnav li {
+    float: left;
+    width: 100px;
+    height: 100%;
+    display: grid;
+    place-items: center;
+    padding: 16px;
+    margin-right: 50px;
+}
+
+.parent {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 780px;
+    margin-left: 600px;
+}
+
+.row {
+    display: flex;
+    justify-content: center;
+}
+
+.item {
+    margin: 20px;
+    background-color: #565a5d;
+}
+
+div.desc {
+    padding: 15px;
+    text-align: center;
+}
+
+.logo {
+    height: 55px;
+    position: absolute;
+}
+
+h4 {
+    color: #000000;
+    width: 450px;
+    font-size: smaller;
+}
+
+.welkoms {
+    width: 450px;
+    position: absolute;
+    margin-top: 100px;
+    margin-left: 100px;
+}
+
+.video-container {
+    width: 480px;
+    height: 350px;
+    overflow: hidden;
+    position: absolute;
+    margin-top: -550px;
+    margin-left: 70%;
+}
+
+.fototje {
+    width: 520px;
+    height: 520px;
+    position: absolute;
+    margin-top: 5%;
+    margin-left: 55%;
+}
+
+#helmut {
+    position: absolute;
+    margin-top: 80px;
+    width: 450px;
+    margin-left: 100px;
+}
+
+#arnold {
+    position: absolute;
+    margin-top: 80px;
+    width: 450px;
+    margin-left: 100px;
+}
+
+#ronnie {
+    position: absolute;
+    margin-top: 80px;
+    width: 450px;
+    margin-left: 100px;
+}
+
+#eddietje {
+    position: absolute;
+    margin-top: 80px;
+    width: 450px;
+    margin-left: 100px;
+}
