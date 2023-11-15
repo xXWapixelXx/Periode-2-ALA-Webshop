@@ -30,11 +30,13 @@ body {
 }
 
 header {
+    position: fixed;
+    top: 0;
     width: 100%;
-    position: absolute;
-    height: 55px;
+    z-index: 100;
     background-color: rgba(0, 0, 0, 0.703);
 }
+
 
 .topnav {
     width: 100%;
