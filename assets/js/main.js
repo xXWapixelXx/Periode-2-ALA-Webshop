@@ -162,7 +162,7 @@ const sendEmail = (e) =>{
         }, 3000);
     }else{
         // serviceID - templateID - #form - publicKey
-        emailjs.sendForm('', '', '#contact-form', '')
+        emailjs.sendForm("service_6bwbpph","template_yfmy4cb", '#contact-form', "2B4P0L-1kI9IfDpDmga7Y")
             .then(() => {
                 // Show message and add color
                 contactMessage.classList.add('color-green')
@@ -176,6 +176,7 @@ const sendEmail = (e) =>{
             }, (error) => {
                 alert('OOPS! SOMETHING HAS FAILED...', error)
             })
+            
 
         // To clear the input field
         contactUser.value = ''
