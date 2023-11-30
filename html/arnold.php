@@ -19,14 +19,14 @@
         <!--==================== HEADER ====================-->
         <header class="header" id="header">
             <nav class="nav container">
-                <a href="/index.html" class="nav__logo">
+                <a href="/index.php" class="nav__logo">
                     <img src="/assets/img/logo-nav.png" alt="logo"> OG FITNESS
                 </a>
 
                 <div class="nav__menu" id="nav-menu">
                     <ul class="nav__list">
                         <li class="nav__item">
-                            <a href="../index.html" class="nav__link active-link">Home</a>
+                            <a href="../index.php" class="nav__link active-link">Home</a>
                         </li>
                         </div>
                     </ul>
@@ -277,13 +277,13 @@
 
                 <ul class="footer__links">
                     <li>
-                        <a href="/html/ronnie.html" class="footer__link">Ronnie</a>
+                        <a href="/html/ronnie.php" class="footer__link">Ronnie</a>
                     </li>
                     <li>
-                        <a href="/html/eddie.html" class="footer__link">Eddie</a>
+                        <a href="/html/eddie.php" class="footer__link">Eddie</a>
                     </li>
                     <li>
-                        <a href="/html/arnold.html" class="footer__link">Arnold</a>
+                        <a href="/html/arnold.php" class="footer__link">Arnold</a>
                     </li>
                 </ul>
             </div>

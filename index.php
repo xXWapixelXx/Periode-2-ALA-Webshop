@@ -21,7 +21,7 @@
     <!--==================== HEADER ====================-->
     <header class="header" id="header">
         <nav class="nav container">
-            <a href="/index.html" class="nav__logo">
+            <a href="/index.php" class="nav__logo">
                 <img src="/assets/img/logo-nav.png" alt="logo"> OG FITNESS
             </a>
 
@@ -41,7 +41,7 @@
                     </li>
 
                     <div class="nav__link">
-                        <a href="/html/login.html" class="button nav__button">Login Now</a>
+                        <a href="/html/login.php" class="button nav__button">Login Now</a>
                     </div>
                 </ul>
 
@@ -256,7 +256,7 @@
                             </li>
                         </ul>
 
-                        <a href="html/ronnie.html" class="button button__flex pricing__button">
+                        <a href="html/ronnie.php" class="button button__flex pricing__button">
                             Go To <i class="ri-arrow-right-line"></i>
                         </a>
                     </article>
@@ -288,7 +288,7 @@
                             </li>
                         </ul>
 
-                        <a href="html/eddie.html" class="button button__flex pricing__button">
+                        <a href="html/eddie.php" class="button button__flex pricing__button">
                             Go To <i class="ri-arrow-right-line"></i>
                         </a>
                     </article>
@@ -320,7 +320,7 @@
                             </li>
                         </ul>
 
-                        <a href="html/arnold.html" class="button button__flex pricing__button">
+                        <a href="html/arnold.php" class="button button__flex pricing__button">
                             Go To <i class="ri-arrow-right-line"></i>
                         </a>
                     </article>

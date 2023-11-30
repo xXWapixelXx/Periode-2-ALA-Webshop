@@ -19,14 +19,14 @@
         <!--==================== HEADER ====================-->
         <header class="header" id="header">
             <nav class="nav container">
-                <a href="/index.html" class="nav__logo">
+                <a href="/index.php" class="nav__logo">
                     <img src="/assets/img/logo-nav.png" alt="logo"> OG FITNESS
                 </a>
 
                 <div class="nav__menu" id="nav-menu">
                     <ul class="nav__list">
                         <li class="nav__item">
-                            <a href="../index.html" class="nav__link active-link">Home</a>
+                            <a href="../index.php" class="nav__link active-link">Home</a>
                         </li>
                         </div>
                     </ul>
@@ -50,9 +50,9 @@
                 <div class="home__container container grid">
                     <div class="home__data">
                         <h2 class="home__subtitle">HERE IS</h2>
-                        <h1 class="home__title">EDDIE</h1>
+                        <h1 class="home__title">RONNIE</h1>
                         <p class="home__description">
-                            Eddie Hall is a British strongman and former professional weightlifter. He is particularly renowned for winning the World's Strongest Man competition in 2017, becoming the first Brit to achieve this title since 1993. Hall is also known for his impressive strength and record-breaking feats, such as deadlifting 500 kg in 2016, which was a world record at the time. His career is marked by his dedication to strength training and his participation in international strongman competitions.
+                            Ronnie Coleman, a legendary bodybuilder, experienced his peak in the 1990s and early 2000s. During this period, he secured the Mr. Olympia title eight consecutive times, from 1998 to 2005, establishing a record that still stands. Coleman is renowned for his incredible muscle mass, particularly in his back and legs, earning him a reputation as one of the greatest bodybuilders of all time. His training intensity and dedication to perfecting his physique have granted him an iconic status in the world of bodybuilding.
                         </p>
                         <a href="#pricing" class="button button__flex">
                             Go To Routines <i class="ri-arrow-right-line"></i>
@@ -60,7 +60,7 @@
                     </div>
 
                     <div class="home__images">
-                        <img src="/assets/img/eddie.png" alt="home image" class="home__img">
+                        <img src="/assets/img/Ronnie.png" alt="home image" class="home__img">
 
                         <div class="home__triangle home__triangle-3"></div>
                         <div class="home__triangle home__triangle-2"></div>
@@ -95,36 +95,36 @@
                                 <li class="pricing__item">
                                     <i class="ri-checkbox-circle-line"></i> Deadlift:
 
-                                    Sets: 4-5
-                                    Repetitions: 15-12-10-8
+                                    Sets: 3
+                                    Repetitions: 8-10
                                 </li>
                                 <li class="pricing__item">
-                                    <i class="ri-checkbox-circle-line"></i> Lat Half-moon:
+                                    <i class="ri-checkbox-circle-line"></i> Barbell Rows:
 
-                                    Sets: 4-5
-                                    Repetitions: 15-12-10-8
+                                    Sets: 3
+                                    Repetitions: 8-12
                                 </li>
                                 <li class="pricing__item">
-                                    <i class="ri-checkbox-circle-line"></i> Machine Rows:
+                                    <i class="ri-checkbox-circle-line"></i> T-Bar Rows:
 
-                                    Sets: 4-5
-                                    Repetitions: 15-12-10-8
+                                    Sets: 3
+                                    Repetitions: 8-12
                                 </li>
                                 <li class="pricing__item">
-                                    <i class="ri-checkbox-circle-line"></i> Dumbbell Rows:
+                                    <i class="ri-checkbox-circle-line"></i> Barbell Curls:
 
-                                    Sets: 4-5
-                                    Repetitions: 15-12-10-8
+                                    Sets: 4
+                                    Repetitions: 8-10
                                 </li>
                                 <li class="pricing__item">
-                                    <i class="ri-checkbox-circle-line"></i> Weighted Crunches:
+                                    <i class="ri-checkbox-circle-line"></i> Preacher Curls:
 
-                                    Sets: 4-5
-                                    Repetitions: 15-12-10-8
+                                    Sets: 4
+                                    Repetitions: 8-10
                                 </li>
                             </ul>
 
-                            <a href="https://www.youtube.com/watch?v=Vxadx7VZr98&pp=ygUSZWRkaWUgaGFsbCB3b3Jrb3V0" target="_blank" class="button button__flex pricing__button">
+                            <a href="https://www.youtube.com/watch?v=VpPJcZi-iw0&pp=ygUdbW9uZGF5IHJvbm5pZSBjb2xlbWFuIHdvcmtvdXQ%3D" target="_blank" class="button button__flex pricing__button">
                                 Watch Video <i class="ri-arrow-right-line"></i>
                             </a>
                         </article>
@@ -141,38 +141,38 @@
 
                             <ul class="pricing__list">
                                 <li class="pricing__item">
-                                    <i class="ri-checkbox-circle-line"></i> Front to Back Military Press:
+                                    <i class="ri-checkbox-circle-line"></i> Squats:
 
-                                    Sets: 4-5
-                                    Repetitions: 15-12-10-8
+                                    Sets: 5
+                                    Repetitions: 5-8
                                 </li>
                                 <li class="pricing__item">
-                                    <i class="ri-checkbox-circle-line"></i> Arnold Press:
+                                    <i class="ri-checkbox-circle-line"></i> Leg Press:
 
-                                    Sets: 4-5
-                                    Repetitions: 15-12-10-8
+                                    Sets: 5
+                                    Repetitions: 5-8
                                 </li>
                                 <li class="pricing__item">
-                                    <i class="ri-checkbox-circle-line"></i> Front Raises:
+                                    <i class="ri-checkbox-circle-line"></i> Hamstring Curls:
 
-                                    Sets: 4-5
-                                    Repetitions: 15-12-10-8
+                                    Sets: 3
+                                    Repetitions: 8-12
                                 </li>
                                 <li class="pricing__item">
-                                    <i class="ri-checkbox-circle-line"></i> Lateral Raise:
+                                    <i class="ri-checkbox-circle-line"></i> Stiff Leg Deadlifts:
 
-                                    Sets: 4-5
-                                    Repetitions: 15-12-10-8
+                                    Sets: 3
+                                    Repetitions: 8-12
                                 </li>
                                 <li class="pricing__item">
-                                    <i class="ri-checkbox-circle-line"></i> Shrugs:
+                                    <i class="ri-checkbox-circle-line"></i> Lunges:
 
-                                    Sets: 4-5
-                                    Repetitions: 15-12-10-8
+                                    Sets: 3
+                                    Repetitions: 10 each leg
                                 </li>
                             </ul>
 
-                            <a href="https://www.youtube.com/watch?v=Jos3djAPdzQ&pp=ygUSZWRkaWUgaGFsbCB3b3Jrb3V0" target="_blank" class="button button__flex pricing__button">
+                            <a href="https://www.youtube.com/watch?v=6PWAQJy3gIs&pp=ygUdbW9uZGF5IHJvbm5pZSBjb2xlbWFuIHdvcmtvdXQ%3D" target="_blank" class="button button__flex pricing__button">
                                 Watch Video <i class="ri-arrow-right-line"></i>
                             </a>
                         </article>
@@ -189,38 +189,38 @@
 
                             <ul class="pricing__list">
                                 <li class="pricing__item">
-                                    <i class="ri-checkbox-circle-line"></i> Bicep Curls:
+                                    <i class="ri-checkbox-circle-line"></i> Bench Press:
 
-                                    Sets: 4-5
-                                    Repetitions: 15-12-10-8
+                                    Sets: 5
+                                    Repetitions: 5-8
                                 </li>
                                 <li class="pricing__item">
-                                    <i class="ri-checkbox-circle-line"></i> Barbell Curls:
+                                    <i class="ri-checkbox-circle-line"></i> Incline Bench Press:
 
-                                    Sets: 4-5
-                                    Repetitions: 15-12-10-8
+                                    Sets: 3
+                                    Repetitions: 8-12
                                 </li>
                                 <li class="pricing__item">
-                                    <i class="ri-checkbox-circle-line"></i> Preacher Curls:
+                                    <i class="ri-checkbox-circle-line"></i> Close Grip Bench Press:
 
-                                    Sets: 4-5
-                                    Repetitions: 15-12-10-8
+                                    Sets: 3
+                                    Repetitions: 8-12
                                 </li>
                                 <li class="pricing__item">
-                                    <i class="ri-checkbox-circle-line"></i>Hammer Curls:
+                                    <i class="ri-checkbox-circle-line"></i> Dumbbell Flyes:
 
-                                    Sets: 4-5
-                                    Repetitions: 15-12-10-8
+                                    Sets: 4
+                                    Repetitions: 8-10
                                 </li>
                                 <li class="pricing__item">
-                                    <i class="ri-checkbox-circle-line"></i> Tricep Pushdown:
+                                    <i class="ri-checkbox-circle-line"></i> Dumbbell Press:
 
-                                    Sets: 4-5
-                                    Repetitions: 15-12-10-8
+                                    Sets: 4
+                                    Repetitions: 8-10
                                 </li>
                             </ul>
 
-                            <a href="https://www.youtube.com/watch?v=6Jx4ILVdqk4&pp=ygUSZWRkaWUgaGFsbCB3b3Jrb3V0" target="_blank" class="button button__flex pricing__button">
+                            <a href="https://www.youtube.com/watch?v=gSMaI63H9hc&pp=ygUdbW9uZGF5IHJvbm5pZSBjb2xlbWFuIHdvcmtvdXQ%3D" target="_blank" class="button button__flex pricing__button">
                                 Watch Video <i class="ri-arrow-right-line"></i>
                             </a>
                         </article>
@@ -277,13 +277,13 @@
 
                 <ul class="footer__links">
                     <li>
-                        <a href="/html/ronnie.html" class="footer__link">Ronnie</a>
+                        <a href="/html/ronnie.php" class="footer__link">Ronnie</a>
                     </li>
                     <li>
-                        <a href="/html/eddie.html" class="footer__link">Eddie</a>
+                        <a href="/html/eddie.php" class="footer__link">Eddie</a>
                     </li>
                     <li>
-                        <a href="/html/arnold.html" class="footer__link">Arnold</a>
+                        <a href="/html/arnold.php" class="footer__link">Arnold</a>
                     </li>
                 </ul>
             </div>

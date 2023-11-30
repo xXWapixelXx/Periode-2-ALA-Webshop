@@ -20,27 +20,27 @@
         <!--==================== HEADER ====================-->
         <header class="header" id="header">
             <nav class="nav container">
-                <a href="/index.html" class="nav__logo">
+                <a href="/index.php" class="nav__logo">
                     <img src="/assets/img/logo-nav.png" alt="logo"> OG FITNESS
                 </a>
 
                 <div class="nav__menu" id="nav-menu">
                     <ul class="nav__list">
                         <li class="nav__item">
-                            <a href="/index.html" class="nav__link active-link">Home</a>
+                            <a href="/index.php" class="nav__link active-link">Home</a>
                         </li>
                         <li class="nav__item">
-                            <a href="/index.html" class="nav__link">Program</a>
+                            <a href="/index.php" class="nav__link">Program</a>
                         </li>
                         <li class="nav__item">
-                            <a href="/index.html" class="nav__link">Choose Us</a>
+                            <a href="/index.php" class="nav__link">Choose Us</a>
                         </li>
                         <li class="nav__item">
-                            <a href="/index.html" class="nav__link">Bodybuilders</a>
+                            <a href="/index.php" class="nav__link">Bodybuilders</a>
                         </li>
 
                         <div class="nav__link">
-                            <a href="/index.html" class="button nav__button">Go Back</a>
+                            <a href="/index.php" class="button nav__button">Go Back</a>
                         </div>
                     </ul>
 
@@ -67,7 +67,7 @@
                 <input type="password" id="password" name="password" required>
             </div>
             <button type="submit" class="login-button">Login</button>
-            <p class="login-register-text">have an account? <a href="/html/login.html">Login Here</a></p>
+            <p class="login-register-text">have an account? <a href="/html/login.php">Login Here</a></p>
         </form>
     </div>
 
